@@ -15,7 +15,7 @@ The goal was to answer business questions from managers and stakeholders using *
 
 ---
 
-## 🛠My Approach
+## My Approach
 1. **Data Cleaning**  
    - Removed commas from `Value` columns.  
    - Ensured consistent numeric formats.  
