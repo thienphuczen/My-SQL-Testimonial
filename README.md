@@ -1,4 +1,4 @@
-# USDA Dairy SQL Project 🥛🧀☕
+# USDA Dairy SQL Project ☕
 
 ## 📌 Scenario
 As a **Data Scientist at USDA**, I worked with datasets tracking production of agricultural commodities 
